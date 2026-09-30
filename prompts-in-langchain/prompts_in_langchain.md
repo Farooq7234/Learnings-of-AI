@@ -1,8 +1,4 @@
-# Prompts in LangChain --- Video Notes
-
-> **Source:** CampusX --- *Prompts in LangChain \| Generative AI using
-> LangChain \| Video 4*\
-> **Purpose:** Complete revision notes based only on the video content.
+# Prompts in LangChain
 
 ------------------------------------------------------------------------
 
