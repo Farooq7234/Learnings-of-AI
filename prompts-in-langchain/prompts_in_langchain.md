@@ -1,7 +1,5 @@
 # Prompts in LangChain
 
-------------------------------------------------------------------------
-
 ## 1. What is a Prompt?
 
 A **prompt** is the message or instruction that is sent to an LLM.
